@@ -18,7 +18,7 @@ This repository documents my learning journey as I strengthen problem-solving sk
 | Folder | Topic | Status |
 |---|---|---|
 | `01-introduction` | Introduction | ✅ Completed |
-| `02-big-o` | Big O Notation | ⬜ Not started |
+| `02-big-o` | Big O Notation | 🔃 In Progress |
 | `03-classes-references` | Classes and References | ⬜ Not started |
 | `04-linked-lists` | Linked Lists | ⬜ Not started |
 | `06-linked-list-interview` | Linked List Interview Exercises | ⬜ Not started |
